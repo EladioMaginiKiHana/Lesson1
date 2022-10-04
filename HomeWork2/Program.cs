@@ -17,7 +17,7 @@ namespace Sololearn
             int a = Convert.ToInt32(Console.ReadLine());
             int b = Convert.ToInt32(Console.ReadLine());
             int c = Convert.ToInt32(Console.ReadLine());
-            int max, min, mid;
+            int max, min;
 
             if (a > b && a > c)
             {
