@@ -12,7 +12,7 @@ System.Console.Write("Ведите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number > 99 & number < 1000)
 {
-    int wqer = ((number % 100)/10)
+    int wqer = ((number % 100)/10);
     System.Console.WriteLine(wqer);
 }
 else    
